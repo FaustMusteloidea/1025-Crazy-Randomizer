@@ -81,7 +81,6 @@ A feature-rich Pokémon randomizer mod for Gen1Recomp, designed to expand encoun
 
 * Expand the in-game randomizer menu.
 * Improve seed regeneration and configuration controls.
-* Add planned Hoenn-specific teleport options.
 * Expand supported utility features and encounter controls.
 
 ### Step 5 — Compatibility, testing and release preparation
