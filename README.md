@@ -98,7 +98,7 @@ The project targets Pokémon FireRed, LeafGreen, Emerald, Ruby and Sapphire thro
 ## Installation
 
 1. Install a compatible version of Gen1Recomp.
-2. Install and configure the required 1025Dex dependency.
+2. Install and configure the required 1025Dex dependency. Download here https://github.com/Bentley734/1025Dex; We also recommend https://github.com/Bentley734/1025DexNav/releases and https://github.com/Bentley734/WildFollowers for a more complete experience.
 3. Download the installable ZIP from the project's **GitHub Releases** page.
 4. Import the ZIP using Gen1Recomp's mod manager.
 5. Enable the mod for the intended game.
