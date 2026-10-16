@@ -38,6 +38,11 @@ A feature-rich Pokémon randomizer mod for Gen1Recomp, designed to expand encoun
 * Gym leader-based level caps and champion progression are implemented in the project but still require broader testing.
 * Additional gameplay quality-of-life features are planned.
 
+### Pokémon Gender
+* Gender randomization for all species.
+* Gender randomization for all wild Pokémon.
+* Gender randomization for Trainer teams.
+
 ### Compatibility and configuration
 
 * Designed primarily for Gen1Recomp and 1025Dex.
